@@ -1,10 +1,10 @@
 # CS230-Class
 
-##***Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?***##
+***Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?***
 
 Social media company Chat Away wanted to develop a mobile app for their successful website. This app needed to be for both Android and iPhones, and budget and timeline were high priorities for the project
 
-##***What did you do particularly well in developing this documentation?***##
+***What did you do particularly well in developing this documentation?***
 
 I believe that I was able to understand and express what the client wanted in their game.
 
